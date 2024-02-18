@@ -21,7 +21,8 @@
 #    print(x)
 
 
-def lst():
-    return lst()
-
-print(lst())
+def lst(*args):
+    for x in args:
+        return args[1]
+#
+print(lst(1,5,2,1))
