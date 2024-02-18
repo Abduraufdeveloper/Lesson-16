@@ -31,3 +31,17 @@ print(lst(1,5,2,1))
 def lst(**kwargs):
     for x in kwargs:
         print(x,kwargs[x])
+
+
+
+def numer(num):
+    x = 12
+    global x
+
+numer()
+print(x + 4)
+
+
+def s(n = 1 ,m = 2):
+    return n + m
+print(s(3,5))
