@@ -3,3 +3,4 @@ masssivda bittalig element keldaigan bolsa biz args ishlatamiz
 agar massivda kop element bolsa kwards ishlatamiz 
 ARgs tuplga  yigadi 
 kwards  esa dictga yigadi 
+return def da oxirgi natija qaytaradi agar returndan keyin print yoki boshqa narsa yozsa ishlamaydi

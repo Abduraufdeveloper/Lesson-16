@@ -26,3 +26,8 @@ def lst(*args):
         return args[1]
 #
 print(lst(1,5,2,1))
+
+
+def lst(**kwargs):
+    for x in kwargs:
+        print(x,kwargs[x])
