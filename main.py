@@ -11,30 +11,11 @@ while i < len(lst):
     if i == 5 :
         continue
     print(i)
+while lst:
+    x = lst.pop(0)
+    print(x)
+else:
+    print("list mavjud emas !")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+for x in lst:
+    print(x)
