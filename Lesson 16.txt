@@ -1,0 +1,1 @@
+Return funktsiyada oxirgi rezuzlatni qaytaradi 
