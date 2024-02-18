@@ -57,5 +57,16 @@ print(lst2())
 
 num = input()
 def lst3():
+    global num
+    num =[1,2,3,4,5,6]
     return num
 print(lst3())
+
+
+for x in num:
+    print(x)
+
+
+
+func = lambda x:x ** 2
+print(func(2))

@@ -4,3 +4,6 @@ agar massivda kop element bolsa kwards ishlatamiz
 ARgs tuplga  yigadi 
 kwards  esa dictga yigadi 
 return def da oxirgi natija qaytaradi agar returndan keyin print yoki boshqa narsa yozsa ishlamaydi
+global bu bizga funksiya ichidagi ozgaruvchini tashqarida ishlata olamz 	
+lambdabu nomsiz funksiya deb ataladi 	faqat uni prosta nomi bolmaydi 
+ 
